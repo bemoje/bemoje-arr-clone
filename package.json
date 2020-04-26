@@ -1,6 +1,6 @@
 {
    "name": "@bemoje/arr-clone",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "description": "Shallow clone of provided array, 'arr'.",
    "main": "dist/arr-clone.umd.js",
    "module": "dist/arr-clone.esm.js",

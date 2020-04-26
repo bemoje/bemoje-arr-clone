@@ -1,5 +1,6 @@
 import assertArgs from '@bemoje/assert-args'
 import assertType from '@bemoje/assert-type'
+
 /**
  * Shallow clone of provided array, 'arr'.
  * @param {Array} arr - The array to clone
