@@ -1,6 +1,6 @@
 {
    "name": "@bemoje/arr-clone",
-   "version": "1.0.1",
+   "version": "1.0.2",
    "description": "Shallow clone of provided array, 'arr'.",
    "main": "dist/arr-clone.umd.js",
    "module": "dist/arr-clone.esm.js",
@@ -50,7 +50,7 @@
    },
    "devDependencies": {
       "babel-core": "^6.26.3",
-      "babel-jest": "^25.4.0",
+      "babel-jest": "^25.5.1",
       "babel-preset-env": "^1.7.0",
       "documentation": "^12.3.0",
       "esm": "^3.2.25",
